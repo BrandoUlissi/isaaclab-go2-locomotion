@@ -25,6 +25,7 @@ Thumbs.db
 
 # Logs and outputs (heavy, regenerable)
 logs/training/
+logs/rsl_rl/
 logs/videos/*.mp4
 !logs/videos/.gitkeep
 runs/
@@ -43,3 +44,6 @@ outputs/
 
 # OS-specific Isaac Sim cache
 .cache/
+
+# Diagnostic logs from training sessions
+logs/*.log
