@@ -42,6 +42,8 @@ Session 2's `model_1999.pt` is the official baseline policy. Session 3 confirmed
 
 Learning curves are in [`docs/images/`](docs/images/). Detailed per-session metrics, hardware peaks, and anomalies are in `docs/RUN_NOTES*.md`.
 
+**Demo video:** download the baseline replay from [Release v0.1.0-baseline](https://github.com/BrandoUlissi/isaaclab-go2-locomotion/releases/tag/v0.1.0-baseline).
+
 ### Push recovery extension (in development)
 
 Adding an external disturbance event manager: random lateral forces applied to the robot's base during training, gated by a curriculum that grows disturbance magnitude as the policy matures. Goal: a policy that maintains velocity tracking under perturbations several times larger than the baseline tolerates.
