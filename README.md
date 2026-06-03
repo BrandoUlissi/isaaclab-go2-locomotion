@@ -114,6 +114,7 @@ Sustained training at 3072 parallel environments held VRAM at ~3.9 GB (64% utili
 This setup is significantly below the typical Isaac Lab recommendation (24+ GB VRAM workstation). The project documents the configuration adjustments needed to make sustained training viable on this hardware.
 
 ## Repository structure
+```
 isaaclab-go2-locomotion/
 ├── CLAUDE.md          # AI-assistant project context (for development sessions)
 ├── README.md          # This file
@@ -133,7 +134,7 @@ isaaclab-go2-locomotion/
 └── logs/              # Training artifacts and videos (gitignored; videos in GitHub releases)
 ```
 
-## Reproducibility
+## Reproducibility```
 
 Both training runs used:
 - Algorithm: PPO via `rsl_rl`, default hyperparameters from Isaac Lab 2.1.1
