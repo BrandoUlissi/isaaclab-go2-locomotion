@@ -134,7 +134,7 @@ isaaclab-go2-locomotion/
 └── logs/              # Training artifacts and videos (gitignored; videos in GitHub releases)
 ```
 
-## Reproducibility```
+## Reproducibility
 
 Both training runs used:
 - Algorithm: PPO via `rsl_rl`, default hyperparameters from Isaac Lab 2.1.1
