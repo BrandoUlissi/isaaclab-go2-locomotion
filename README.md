@@ -10,7 +10,7 @@
 
 ---
 
-## Demo
+## Democo
 
 Side-by-side comparison of the two trained policies under **identical scheduled disturbances** (seven 120 N impulses across 25 seconds, applied at the same instant to both robots). The baseline policy was trained on undisturbed flat terrain; the push-recovery policy was trained with a mixed disturbance curriculum.
 
