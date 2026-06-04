@@ -1,6 +1,5 @@
 # Isaac Lab — Go2 Locomotion
 
-[![Status: Active Development](https://img.shields.io/badge/status-active%20development-yellow)](https://github.com/BrandoUlissi/isaaclab-go2-locomotion)
 [![Isaac Sim 4.5](https://img.shields.io/badge/Isaac%20Sim-4.5.0-76B900)](https://developer.nvidia.com/isaac-sim)
 [![Isaac Lab 2.1](https://img.shields.io/badge/Isaac%20Lab-2.1.1-76B900)](https://github.com/isaac-sim/IsaacLab)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
